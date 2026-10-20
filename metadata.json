@@ -1,0 +1,8 @@
+{
+  "name": "MediInterpret AI",
+  "description": "Safe, professional, and non-diagnostic medical document interpreter. Analyzes prescriptions and lab reports into simple Urdu and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
